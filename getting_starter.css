@@ -1,0 +1,21 @@
+div {
+    color: white;
+    background-color: black;
+  }
+  
+  p {
+    color: white;
+    
+  }
+
+  *{
+    background-color: black;
+    color: white;
+  }
+  button {
+    background-color:white
+  }
+  #idk {
+    background-color: white;
+    color: black;
+  }
