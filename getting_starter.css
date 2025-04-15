@@ -1,3 +1,4 @@
+
 div {
     color: white;
     background-color: black;
@@ -16,10 +17,6 @@ div {
     background-color:white
   }
   #idk {
-    background-color: white;
-    color: black;
-  }
-
-  h1 {
-    font-family: Chewy;
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
   }
